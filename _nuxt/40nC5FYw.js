@@ -1,1 +1,0 @@
-import"./zpHdnZTQ.js";function n(r){var o,t,s;return{code:((o=r==null?void 0:r.error)==null?void 0:o.code)||(r==null?void 0:r.code)||-1,message:((t=r==null?void 0:r.error)==null?void 0:t.message)||(r==null?void 0:r.message)||typeof r=="string"&&r||"Unhandled error from the wallet",ext:((s=r==null?void 0:r.error)==null?void 0:s.ext)||(r==null?void 0:r.ext)}}export{n as p};
