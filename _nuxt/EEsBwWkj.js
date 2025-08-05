@@ -1,0 +1,1 @@
+import"./_bNdCwc-.js";function o(r){return{code:r?.error?.code||r?.code||-1,message:r?.error?.message||r?.message||typeof r=="string"&&r||"Unhandled error from the wallet",ext:r?.error?.ext||r?.ext}}export{o as p};
